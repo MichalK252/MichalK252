@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michał</h1>
 - 🌱 I’m currently learning **React, Java, C++, git**
 
-- 💬 Ask me about **soccer, aviation,F1, Arsenal**
+- 💬 Ask me about **soccer, aviation, F1, Arsenal**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
