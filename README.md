@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋I'm Michael</h1>
+<h1 align="center">Hey 👋 I'm Michael</h1>
 
 ###
 
@@ -33,6 +33,25 @@
 * **Realistic Simulation:** Predicts tire degradation and lap times over a race distance using realistic wear logic.
 * **Strategic Insights:** Provides optimal pit stop lap recommendations based on real-time tire wear, while maintaining user control over new tire choices.
 * **Data Export:** Save detailed simulation results (track, temp, laps, wear, best lap, pit stops) directly to well-formatted CSV files for further analytical purposes.
+
+### 📊 GradeSync
+
+**A full-stack web application designed to streamline the educational grading process, enabling teachers to manage student performance efficiently.**
+
+* **Standardized Grading:** Assign, view, and manage student grades seamlessly on a 1–100 scale.
+* **Responsive UI:** Built with **React** to provide a clean interface with real-time feedback.
+* **Robust Backend:** Powered by a RESTful API built with **Node.js** and **Express.js**.
+* **Data Management:** Secure and structured data storage utilizing **PostgreSQL**.
+* **Extensible Architecture:** Designed from the ground up for easy scaling and addition of future school-management features.
+
+### 🎮 Doppler
+
+**An engaging, gamified educational platform inspired by interactive quiz games, featuring custom aesthetics and unique gameplay loops.**
+
+* **Interactive Learning:** Fast-paced, question-and-answer mechanics designed to make knowledge retention fun.
+* **Custom Skins:** A dynamic cosmetic system allowing players to personalize their visual experience.
+* **Diverse Game Modes:** Multiple distinct ways to play and compete, keeping the educational experience fresh and engaging.
+* **Modern Tech Stack:** Built with modern web technologies (**TypeScript**) to ensure a smooth and responsive user experience.
 
 ###
 
