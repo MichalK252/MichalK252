@@ -17,42 +17,29 @@
 <h2 align="left">Projects</h2>
 
 ### 🏋️‍♂️ Samson Wiki
-
 **A comprehensive web application for fitness enthusiasts to manage workouts, nutrition, and track progress.**
-
-* **Muscle Exploration:** Interactive UI allowing users to click on specific muscle groups to view related exercise videos.
-* **Precision Calculators:** Built-in tools for calculating **One Rep Max** (maximal strength capabilities) and daily **Caloric Needs**.
-* **Workout Builder:** Create, customize, and save personalized workout plans.
-* **User Authentication:** Secure login and registration system for a fully personalized experience.
+* **Interactive Workouts:** Features a custom Workout Builder and an interactive muscle map to explore related exercises.
+* **Precision Calculators:** Built-in tools for calculating One Rep Max (1RM) and daily Caloric Needs.
+* **Secure Experience:** Implements robust user authentication and personalized data tracking for a complete fitness journey.
 
 ### 🏎️ F1 Tire Simulator
-
 **A data-driven, console-based application that simulates Formula 1 tire wear and race conditions.**
-
-* **Race Setup:** Choose from real F1 Grand Prix tracks, select starting tire compounds, and configure track temperatures.
-* **Realistic Simulation:** Predicts tire degradation and lap times over a race distance using realistic wear logic.
-* **Strategic Insights:** Provides optimal pit stop lap recommendations based on real-time tire wear, while maintaining user control over new tire choices.
-* **Data Export:** Save detailed simulation results (track, temp, laps, wear, best lap, pit stops) directly to well-formatted CSV files for further analytical purposes.
+* **Realistic Simulation:** Predicts tire degradation and lap times based on real F1 tracks, tire compounds, and track temperatures.
+* **Strategic Insights:** Provides optimal pit stop recommendations based on real-time wear logic, while allowing user intervention.
+* **Data Export:** Saves detailed race data (laps, wear, temps, pit stops) directly to formatted CSV files for further analysis.
 
 ### 📊 GradeSync
-
-**A full-stack web application designed to streamline the educational grading process, enabling teachers to manage student performance efficiently.**
-
-* **Standardized Grading:** Assign, view, and manage student grades seamlessly on a 1–100 scale.
-* **Responsive UI:** Built with **React** to provide a clean interface with real-time feedback.
-* **Robust Backend:** Powered by a RESTful API built with **Node.js** and **Express.js**.
-* **Data Management:** Secure and structured data storage utilizing **PostgreSQL**.
-* **Extensible Architecture:** Designed from the ground up for easy scaling and addition of future school-management features.
+**A full-stack web application designed to streamline the educational grading process for schools.**
+* **Standardized Grading:** Enables teachers to efficiently assign, view, and manage student performance on a 1–100 scale.
+* **Responsive UI:** Built with React to provide a clean, user-friendly interface with real-time visual feedback.
+* **Robust Architecture:** Powered by a Node.js & Express RESTful API and PostgreSQL for secure, scalable data storage.
 
 ### 🎮 Doppler
-
-**An engaging, gamified educational platform inspired by interactive quiz games, featuring custom aesthetics and unique gameplay loops.**
-
-* **Interactive Learning:** Fast-paced, question-and-answer mechanics designed to make knowledge retention fun.
-* **Custom Skins:** A dynamic cosmetic system allowing players to personalize their visual experience.
-* **Diverse Game Modes:** Multiple distinct ways to play and compete, keeping the educational experience fresh and engaging.
-* **Modern Tech Stack:** Built with modern web technologies (**TypeScript**) to ensure a smooth and responsive user experience.
-
+**An engaging, gamified educational platform inspired by interactive quiz games.**
+* **Engaging Gameplay:** Features fast-paced quiz mechanics and multiple game modes to make learning interactive and fun.
+* **Player Customization:** Includes a dynamic cosmetic system allowing players to unlock custom skins and personalize their visual experience.
+* **Modern Tech Stack:** Built utilizing Next.js, TypeScript, and Firebase to ensure a smooth, scalable, and real-time user experience.
+* 
 ###
 
 <h2 align="left">💻 Tech Stack:</h2>
