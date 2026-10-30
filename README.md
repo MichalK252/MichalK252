@@ -74,6 +74,7 @@ I build performant web applications and data-driven systems, with a core focus o
         <li><strong>Reliability:</strong> Precomputed 50-player historical baseline dataset + runtime caching to prevent NBA API connection resets (`10054`).</li>
       </ul>
       <p align="right">
+        <a href="https://the-basketball-observer.vercel.app/" target="_blank"><strong>Live Demo ↗</strong></a>
         <a href="https://github.com/MichalK252/the-basketball-observer"><strong>View Repository →</strong></a>
       </p>
     </td>
@@ -97,7 +98,7 @@ I build performant web applications and data-driven systems, with a core focus o
         <li>Deployed and live for public playtesting.</li>
       </ul>
       <p align="right">
-        <a href="http://doppler-quiz.vercel.app" target="_blank"><strong>Live Demo ↗</strong></a> &nbsp;|&nbsp; 
+        <a href="http://doppler-quiz.vercel.app" target="_blank"><strong>Live Demo ↗</strong></a>
         <a href="https://github.com/doppler-pai/doppler"><strong>View Repository →</strong></a>
       </p>
     </td>
