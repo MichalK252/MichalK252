@@ -104,21 +104,22 @@ I build performant web applications and data-driven systems, with a core focus o
     </td>
     <td width="50%" valign="top">
       <h3 align="left">
-        📊 <a href="https://github.com/JakubMazurek08/gradesync">GradeSync</a>
+        🏎️ <a href="https://github.com/MichalK252/F1TIRE">F1 Tire Simulator</a>
       </h3>
-      <p><em>Full-stack academic performance & grading management platform.</em></p>
+      <p><em>Algorithmic C++ simulation engine predicting tire degradation and optimal race strategies.</em></p>
       <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/C++_17-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/Algorithms-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+        <img src="https://img.shields.io/badge/Data_Export-CSV-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Simulation-Console-4D4D4D?style=flat-square&logo=gnubash&logoColor=white" />
       </p>
       <ul>
-        <li><strong>Backend & API Design:</strong> Contributed 30 commits developing relational schema migrations, grade calculation models, and authenticated REST endpoints.</li>
-        <li>Integrated clean error-handling middleware and standard 1–100 academic assessment scales.</li>
+        <li><strong>Physical Modeling:</strong> Simulates compound wear rates, thermal degradation curves, and dynamic lap times across authentic Formula 1 circuits.</li>
+        <li><strong>Pit Strategy Engine:</strong> Computes optimal pit-window recommendations based on real-time tire degradation thresholds.</li>
+        <li><strong>Data Pipeline:</strong> Formats and streams telemetry data (laps, wear %, temperatures, pit deltas) directly into structured CSV exports.</li>
       </ul>
       <p align="right">
-        <a href="https://github.com/JakubMazurek08/gradesync"><strong>View Repository →</strong></a>
+        <a href="https://github.com/MichalK252/F1TIRE"><strong>View Repository →</strong></a>
       </p>
     </td>
   </tr>
